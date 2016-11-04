@@ -32,7 +32,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 PLUGIN_PATHS = ['/home/compsci/pelican-plugins']
 PLUGINS = ['render_math']
@@ -48,5 +48,6 @@ BOOTSTRAP_THEME = 'readable'
 SHOW_ARTICLE_AUTHOR = False
 SHOW_ARTICLE_CATEGORY = False
 HIDE_SIDEBAR = True
+DISPLAY_CATEGORIES_ON_MENU = False
 #DISPLAY_TAGS_ON_SIDEBAR = True
 CC_LICENSE = 'CC-BY'
