@@ -1,0 +1,79 @@
+Weekly Announcement 11/16
+####################################
+
+:date: 2016-11-16
+:tags: announcements
+
+Hi everybody!
+
+First off, **congratulations to our Duke teams**! TJ A placed 1st, TJ B placed 3rd, TJ D placed 6th, and TJ C placed 9th. In addition, please congratulate **Joshua Lee** for earning the only perfect score and placing 1st individually! Attached are the photos of Duke A, Duke B, and the entire Duke team.
+
+**This week**, we had a problem solving session A block and a **proof writing lesson** B block.
+
+**Next week**, we will **NOT** meet on **Wednesday** because it is a 2-hour release. 
+
+**Virginia Math Teachers have a contest this year called HEXA Challenge**. The contest consists of 6 proofs due by February 29th, 2017. Problems are below if you are interested.
+
+**Phone-A-Thon is this Saturday, November 19 from 9 am to 2 pm in room 62**. We need both student volunteers and at least 2 parent volunteers; you do not need to stay the whole time, but we would appreciate it if you could stay for at least a 2 hour shift. Phone-A-Thon is a good opportunity for you to earn service hours (1 service hour per hour you spend there). **IF WE DO NOT HAVE VOLUNTEERS FOR PHONE-A-THON, WE CANNOT RECEIVE MONEY FROM ACADEMIC BOOSTERS**. Please email us right away if you or your parent is willing to help out. (Remember, some parents have already contributed a lot of time this year by driving to Duke and Princeton)
+
+Last call for **T-shirts**!!!!! **Order a t-shirt** `here <https://docs.google.com/forms/d/e/1FAIpQLScVHsvP5iF1PcgRpsn6yLmUXuqN5M5SVlnPfCxkA-I6fA-eiw/viewform?c=0&w=1&usp=send_form>`_ **ASAP**.
+
+Next **Monday, November 21**, we will resume **TJAIME/TJUSAMO**.
+
+Also, **sign up for academic boosters ASAP**.
+
+As a reminder, please join our Facebook page (TJ Varsity Math Team).
+
+Have a nice week!
+
+VMT Officers
+
+Duke Pictures
+*************************
+
+`Duke A <{filename}/img/20161116/DukeA.jpg>`_
+
+`Duke B <{filename}/img/20161116/DukeB.jpg>`_
+
+`Duke <{filename}/img/20161116/Duke.jpg>`_
+
+HEXA Challenge Problems
+*************************
+
+October Challange:
+"""""""""""""""""""""""""""""""""""""
+
+It is 2016. If we continue writing the digits, 2, 0, 1, 6, in this order N times, we'll GET a different number K=201620162016...2016 where the digits 2, 0, 1, 6 are repeated N times. Prove that K can not be a perfect square of any integer number.
+
+November Challange:
+""""""""""""""""""""""""""""""""""""
+
+There are N people live in a city, where there are two main competing companies. Out of these people, n know each other, because they work for the same company. m people also know each other because they work in the same city, but in a rival company. Personal relationships between workers ar rival companies are not allowed. What portion of the population of the city, does not work for either of these companies, but can know exactly one person from each company?
+
+December Challenge:
+""""""""""""""""""""""""""""""""""""""
+
+Given an infinitely large set of different types of triangles, if one randomly selects a triangle, what are the chances of this triangle being obtuse?
+
+January Challenge:
+""""""""""""""""""""""""""
+
+Solve the following equation:
+
+.. math::
+    
+    x^2 \left[ 1 + \frac{4}{(x+2)^2} \right] = 5
+
+February Challange:
+"""""""""""""""""""""""""""""""
+
+Prove the following for any integer number :math:`n`\ :
+
+.. math::
+    
+    \frac{1}{n+1} + \frac{1}{n+2} + \frac{1}{n+3} + \cdots + \frac{1}{2n} > \frac{1}{2}
+
+March Challenge:
+"""""""""""""""""""""""""""""""
+
+In an isosceles triangle ANC, AB=BC, angle B is 20 degrees, AC is five units. Points D is on BC, so that angle BAD is 30 degrees, and angle DAC is 50 degrees. Point E is on the side AB, so that angle ECB is 60 degrees and angle ECA is 20 degrees. Find the length of DE.
