@@ -1,3 +1,10 @@
 # vmtsite
 
-This is a temporary solution (just for me) until someone can fix VMT website :(
+# Install
+You need the following packages (from Python):
+pelican
+Markdowm
+typogrify
+
+# Documentation
+http://docs.getpelican.com/en/stable/install.html
