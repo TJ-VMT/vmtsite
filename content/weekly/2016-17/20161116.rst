@@ -31,11 +31,11 @@ VMT Officers
 Duke Pictures
 *************************
 
-`Duke A <{filename}/img/20161116/DukeA.jpg>`_
+`Duke A <{filename}/img/2016-17/20161116/DukeA.jpg>`_
 
-`Duke B <{filename}/img/20161116/DukeB.jpg>`_
+`Duke B <{filename}/img/2016-17/20161116/DukeB.jpg>`_
 
-`Duke <{filename}/img/20161116/Duke.jpg>`_
+`Duke <{filename}/img/2016-17/20161116/Duke.jpg>`_
 
 HEXA Challenge Problems
 *************************

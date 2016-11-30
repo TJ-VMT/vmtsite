@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'SHY'
 SITENAME = 'TJ VMT'
-SITEURL = 'https://wuxishy.github.io/vmtsite'
+SITEURL = 'https://tj-vmt.github.io/vmtsite'
 
 PATH = 'content'
 
@@ -20,14 +20,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('TJHSST', 'https://tjhsst.edu'),
+         ('AoPS', 'http://aops.com'),
+         ('AMC', 'http://www.maa.org/math-competitions'),
+         ('ARML', 'https://arml.com'),
+         ('HMMT', 'hmmt.co'),
+         ('PUMaC', 'https://pumac.princeton.edu/'),
+         ('CMIMC', 'http://www.cmimc.org/'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+# Don't know VMT's facebook :(
+# SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -36,10 +40,10 @@ RELATIVE_URLS = True
 
 STATIC_PATHS = ['img']
 
-PLUGIN_PATHS = ['/home/compsci/pelican-plugins']
-PLUGINS = ['render_math']
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = ['render_math', 'tag_cloud']
 
-THEME = "/home/compsci/pelican-themes/pelican-bootstrap3"
+THEME = "./themes/pelican-bootstrap3"
 
 DEFAULT_PAGINATION = 10
 
@@ -49,6 +53,6 @@ DEFAULT_PAGINATION = 10
 BOOTSTRAP_THEME = 'readable'
 SHOW_ARTICLE_AUTHOR = False
 SHOW_ARTICLE_CATEGORY = False
-HIDE_SIDEBAR = True
+HIDE_SIDEBAR = False
 DISPLAY_CATEGORIES_ON_MENU = False
-#DISPLAY_TAGS_ON_SIDEBAR = True
+DISPLAY_TAGS_ON_SIDEBAR = True
