@@ -2,9 +2,10 @@
 
 # Install
 You need the following packages (from Python):
-pelican
-Markdowm
-typogrify
+
+* pelican
+* Markdown
+* typogrify
 
 # Documentation
 http://docs.getpelican.com/en/stable/install.html
