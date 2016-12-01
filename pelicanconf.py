@@ -29,8 +29,12 @@ LINKS = (('TJHSST', 'https://tjhsst.edu'),
          ('CMIMC', 'http://www.cmimc.org/'),)
 
 # Social widget
-# Don't know VMT's facebook :(
 SOCIAL = (('facebook','https://www.facebook.com/groups/198737200195082/'),('github', 'https://github.com/TJ-VMT'),)
+
+# site logo
+#SITELOGO = 'img/vmt_logo.jpg'
+#SITELOGO_SIZE = '60'
+#HIDE_SITENAME = True
 
 DEFAULT_PAGINATION = 10
 
@@ -55,3 +59,5 @@ SHOW_ARTICLE_CATEGORY = False
 HIDE_SIDEBAR = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_TAGS_ON_SIDEBAR = False
+
+

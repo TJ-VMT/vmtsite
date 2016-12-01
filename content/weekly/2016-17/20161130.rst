@@ -8,7 +8,7 @@ Hi everybody!
 
 There's a lot in this email, make sure you read through!
 
-Our temporary website can be found at tj-vmt.github.io/vmtsite.
+Our temporary website can be found at https://tj-vmt.github.io/vmtsite.
 Shout out to Hao for building and maintaining the website.
 
 **This week,** we had a **Plank Countdown A block** and a **Squat Countdown B Block**. 
