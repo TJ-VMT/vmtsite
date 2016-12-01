@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'SHY'
+AUTHOR = 'wuxishy & mabotkin'
 SITENAME = 'TJ VMT'
 SITEURL = 'https://tj-vmt.github.io/vmtsite'
 
