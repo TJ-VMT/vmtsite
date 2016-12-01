@@ -30,7 +30,7 @@ LINKS = (('TJHSST', 'https://tjhsst.edu'),
 
 # Social widget
 # Don't know VMT's facebook :(
-SOCIAL = (('github', 'https://github.com/TJ-VMT'),)
+SOCIAL = (('facebook','https://www.facebook.com/groups/198737200195082/'),('github', 'https://github.com/TJ-VMT'),)
 
 DEFAULT_PAGINATION = 10
 
