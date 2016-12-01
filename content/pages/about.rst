@@ -12,5 +12,5 @@ If you have any questions, complaints, or suggestions regarding the website, ple
    <br />
 
 .. _vmtofficers@gmail.com: vmtofficers@gmail.com
-.. image:: /img/pumac2.jpg
+.. image:: ../img/pumac2.jpg
 	:alt: Team picture from PUMaC 2016
