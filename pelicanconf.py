@@ -23,15 +23,14 @@ AUTHOR_FEED_RSS = None
 LINKS = (('TJHSST', 'https://tjhsst.edu'),
          ('AoPS', 'http://aops.com'),
          ('AMC', 'http://www.maa.org/math-competitions'),
-         ('ARML', 'https://arml.com'),
-         ('HMMT', 'hmmt.co'),
+         ('ARML', 'http://arml.com'),
+         ('HMMT', 'http://hmmt.co'),
          ('PUMaC', 'https://pumac.princeton.edu/'),
-         ('CMIMC', 'http://www.cmimc.org/'))
+         ('CMIMC', 'http://www.cmimc.org/'),)
 
 # Social widget
 # Don't know VMT's facebook :(
-# SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
+SOCIAL = (('github', 'https://github.com/TJ-VMT'),)
 
 DEFAULT_PAGINATION = 10
 
