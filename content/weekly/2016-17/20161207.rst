@@ -1,0 +1,103 @@
+Weekly Announcement 12/07
+####################################
+
+:date: 2016-12/07
+:tags: announcements
+
+Hi everybody!
+
+A quick reminder that our `website <https://activities.tjhsst.edu/vmt/>`_ is
+up.
+
+**This week,** we had a **HMMT Proof Contest A and B blocks**.
+
+
+**Next week**, we will have two back to back 35 minute HMMT short answer
+contests. 
+If you are interested in qualifying for **HMMT** in February, you
+should attend. 
+If you cannot take make either of the two blocks on Wednesday,you can make the contests up on **Monday from 4:10 to 5:30**. 
+Please let us know if you'd like to make it up by **Sunday noon**. 
+Note that these will be the **last contests for HMMT**. As a reminder, the **Secret Santa Exchange** will also take place next week.
+
+Next **Monday**, we will have **a mock AIME and USAMO** from **4:10 to 6:10.**
+Past lectures can be found on the website.
+If you have read until here, message Akshaj a smiley face on Facebook after reading the whole email ;).
+
+We also have several spots remaining for **CMIMC** on **January 28**. 
+More information about the contest can be found `here <http://cmimc.co/>`_. 
+We willbe traveling there in a bus. If you'd like to attend, please contact us **before Monday**.
+
+**ARML** is also on the horizon. **ARML practices** will start on **February 2nd**.
+ARML practices take place on **Thursdays from 7:00 to 9:00**, with a lecture from **6:10 to 7:00.**
+**Attention all freshman and sophomores who have not traveled this year**: We will send a JV team to ARML this year, so we encourage you to attend these ARML practices.
+
+**Virginia Math Teachers have a contest this year called HEXA Challenge**.
+The contest consists of 6 proofs due by February 29th, 2017. Photos of the problems are attached below if you are interested.
+
+**TJIMO** has been rescheduled to **Saturday, March 4th.**
+
+`Moody's Mega Math (M3) Challenge <https://m3challenge.siam.org/>`_ is a national mathematical modeling contest for high school juniors and seniors sponsored by The Moody's Foundation and organized by the Society for Industrial and Applied Mathematics (SIAM). Scholarship prizes total
+$150,000. 
+Students gain the experience of working in teams to tackle a real-world problem under time and resource constraints akin to those faced by industrial applied mathematicians.
+
+TJ can send up to two teams of 3-5 students. 
+The Moody's 2017 competition takes place over a 14-hour block sometime on Friday-Monday, February 24th-27th, 2017. 
+**If you are interested, please read through past problems on their website, and form a team. Each person on the team should write a short statement describing their interest in the competition and the contributions they can make to the team.** 
+Then, email these statements to Mrs. Coffey at mecoffey@fcps.edu. 
+Note that it is very important to be familiar with mathematical modelling software like Mathematica and Matlab, as well as the specific format of the problems, for this competition.
+
+The sign up deadline (sign up by emailing vmtofficers@gmail.com) for **Moody's Mega Math Challenge** is next **Tuesday** **11:59 PM**. 
+If you've read till here, message Akshaj an angry face instead of a smiley face on facebook ;).
+
+
+Also, **sign up for Academic Boosters ASAP.**
+
+As a reminder, please join our Facebook page (TJ Varsity Math Team). Our
+8th period schedule can be found on the website.
+
+Have a nice week!
+
+VMT Officers
+
+
+HEXA Challenge Problems
+*************************
+
+October Challange:
+"""""""""""""""""""""""""""""""""""""
+
+It is 2016. If we continue writing the digits, 2, 0, 1, 6, in this order N times, we'll GET a different number K=201620162016...2016 where the digits 2, 0, 1, 6 are repeated N times. Prove that K can not be a perfect square of any integer number.
+
+November Challange:
+""""""""""""""""""""""""""""""""""""
+
+There are N people live in a city, where there are two main competing companies. Out of these people, n know each other, because they work for the same company. m people also know each other because they work in the same city, but in a rival company. Personal relationships between workers ar rival companies are not allowed. What portion of the population of the city, does not work for either of these companies, but can know exactly one person from each company?
+
+December Challenge:
+""""""""""""""""""""""""""""""""""""""
+
+Given an infinitely large set of different types of triangles, if one randomly selects a triangle, what are the chances of this triangle being obtuse?
+
+January Challenge:
+""""""""""""""""""""""""""
+
+Solve the following equation:
+
+.. math::
+    
+    x^2 \left[ 1 + \frac{4}{(x+2)^2} \right] = 5
+
+February Challange:
+"""""""""""""""""""""""""""""""
+
+Prove the following for any integer number :math:`n`\ :
+
+.. math::
+    
+    \frac{1}{n+1} + \frac{1}{n+2} + \frac{1}{n+3} + \cdots + \frac{1}{2n} > \frac{1}{2}
+
+March Challenge:
+"""""""""""""""""""""""""""""""
+
+In an isosceles triangle ANC, AB=BC, angle B is 20 degrees, AC is five units. Points D is on BC, so that angle BAD is 30 degrees, and angle DAC is 50 degrees. Point E is on the side AB, so that angle ECB is 60 degrees and angle ECA is 20 degrees. Find the length of DE.
