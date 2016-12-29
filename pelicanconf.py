@@ -53,6 +53,8 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+FAVICON = 'img/favicon.png'
+
 BOOTSTRAP_THEME = 'readable'
 SHOW_ARTICLE_AUTHOR = False
 SHOW_ARTICLE_CATEGORY = False
