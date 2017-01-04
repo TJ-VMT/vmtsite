@@ -1,0 +1,83 @@
+Weekly Announcement 01/04
+####################################
+
+:date: 2017-01-04
+:tags: announcements
+
+Hi everybody!
+
+A quick reminder that our `website <https://activities.tjhsst.edu/vmt/>`_ is
+up.
+**ATTENTION** all math team members: If you know students who are not in
+a first semester math class (or are only taking an online class), please
+contact `Mrs. Coffey <mecoffey@fcps.edu>`_ so that she can register them for
+the AMCs.
+
+**This week,** we had a **frustrating Homeroom session A and B Blocks**. We hope you enjoyed it.
+
+
+**Next week**, we will have an **AMC prep session both blocks** and **a lecture** for people who are not prepping. 
+The AMC prep session is a great opportunity to strengthen your AMC skills before the coming AMC 10/12 A&B.
+
+
+**Sign up for guest lectures** `here <https://goo.gl/forms/DurJGrVOag2cAoVn2>`_.
+
+**Virginia Math Teachers have a contest this year called HEXA Challenge**.
+The contest consists of 6 proofs due by February 29th, 2017. Photos of the problems are attached below if you are interested.
+
+The Johns Hopkins Engineering Innovation Summer Program is a great opportunity to pursue an interest in engineering this summer. 
+Accepted students have the opportunity to take the summer version of an undergraduate course in engineering that all undecided JHU engineering major students take. 
+If you're interested, watch `this video <http://engineering.jhu.edu/ei/engineering-overview-video/>`_. 
+You can also contact us (VMT officers) for more information.
+
+**TJIMO** has been rescheduled to **Saturday, March 4th.**
+
+Also, **sign up for Academic Boosters ASAP.**
+
+As a reminder, please join our Facebook page (TJ Varsity Math Team). Our 8th period schedule can be found on the website.
+
+Happy Holiday!
+
+VMT Officers + Allen
+
+
+HEXA Challenge Problems
+*************************
+
+October Challange:
+"""""""""""""""""""""""""""""""""""""
+
+It is 2016. If we continue writing the digits, 2, 0, 1, 6, in this order N times, we'll GET a different number K=201620162016...2016 where the digits 2, 0, 1, 6 are repeated N times. Prove that K can not be a perfect square of any integer number.
+
+November Challange:
+""""""""""""""""""""""""""""""""""""
+
+There are N people live in a city, where there are two main competing companies. Out of these people, n know each other, because they work for the same company. m people also know each other because they work in the same city, but in a rival company. Personal relationships between workers ar rival companies are not allowed. What portion of the population of the city, does not work for either of these companies, but can know exactly one person from each company?
+
+December Challenge:
+""""""""""""""""""""""""""""""""""""""
+
+Given an infinitely large set of different types of triangles, if one randomly selects a triangle, what are the chances of this triangle being obtuse?
+
+January Challenge:
+""""""""""""""""""""""""""
+
+Solve the following equation:
+
+.. math::
+    
+    x^2 \left[ 1 + \frac{4}{(x+2)^2} \right] = 5
+
+February Challange:
+"""""""""""""""""""""""""""""""
+
+Prove the following for any integer number :math:`n`\ :
+
+.. math::
+    
+    \frac{1}{n+1} + \frac{1}{n+2} + \frac{1}{n+3} + \cdots + \frac{1}{2n} > \frac{1}{2}
+
+March Challenge:
+"""""""""""""""""""""""""""""""
+
+In an isosceles triangle ANC, AB=BC, angle B is 20 degrees, AC is five units. Points D is on BC, so that angle BAD is 30 degrees, and angle DAC is 50 degrees. Point E is on the side AB, so that angle ECB is 60 degrees and angle ECA is 20 degrees. Find the length of DE.
