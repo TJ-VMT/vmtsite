@@ -1,5 +1,8 @@
-About
-##############
+Welcome to Varsity Math Team
+#############################
+
+:url:
+:save_as: index.html
 
 The Thomas Jefferson High School for Science and Technology Varsity Math Team is one of the most successful math teams in the nation. VMT members participate in many different events throughout the year.
 
@@ -7,10 +10,7 @@ The majority of our events occur during the school day. We meet every Wednesday 
 
 If you have any questions, complaints, or suggestions regarding the website, please contact the `officers <mailto:vmtofficers@gmail.com>`_.
 
-.. |br| raw:: html
-
-   <br />
-
 .. _vmtofficers@gmail.com: vmtofficers@gmail.com
-.. image:: ../img/pumac2.jpg
+.. image:: img/pumac2.jpg
+        :width: 600px
 	:alt: Team picture from PUMaC 2016

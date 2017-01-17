@@ -44,7 +44,7 @@ RELATIVE_URLS = True
 STATIC_PATHS = ['img']
 
 PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['render_math', 'tag_cloud']
+PLUGINS = ['render_math']
 
 THEME = "./themes/pelican-bootstrap3"
 
@@ -52,6 +52,11 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = ''
+
+ARTICLE_EXCLUDES = ['weekly']
 
 FAVICON = 'img/favicon.png'
 
