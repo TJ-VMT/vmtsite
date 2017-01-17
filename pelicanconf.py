@@ -48,6 +48,8 @@ PLUGINS = ['render_math']
 
 THEME = "./themes/pelican-bootstrap3"
 
+DIRECT_TEMPLATES = ['index']
+
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
