@@ -44,7 +44,7 @@ RELATIVE_URLS = True
 STATIC_PATHS = ['img']
 
 PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['render_math']
+#PLUGINS = ['render_math']
 
 THEME = "./themes/pelican-bootstrap3"
 
