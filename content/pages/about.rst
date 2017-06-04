@@ -10,7 +10,6 @@ The majority of our events occur during the school day. We meet every Wednesday 
 
 If you have any questions, complaints, or suggestions regarding the website, please contact the `officers <mailto:vmtofficers@gmail.com>`_.
 
-.. _vmtofficers@gmail.com: vmtofficers@gmail.com
-.. image:: img/pumac2.jpg
-        :width: 600px
-	:alt: Team picture from PUMaC 2016
+.. image:: img/arml2017.jpg
+        :width: 750px
+	:alt: A Team Award Picture ARML 2017
