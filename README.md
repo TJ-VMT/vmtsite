@@ -4,7 +4,7 @@ This is the official repository of the TJHSST Varsity Math Team website.  The of
 
 ## Contact
 
-If you have any questions or concerns, please either file a bug report or email VMT [officers](vmtofficers@gmail.com).
+If you have any questions or concerns, please either file a bug report or email VMT [officers](mailto:vmtofficers@gmail.com).
 
 ## Install
 Making a python virtual enviornment is highly recommended, note that python3 is required. Sample method of creating a virtualenv is shown below:
