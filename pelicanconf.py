@@ -47,12 +47,11 @@ PLUGIN_PATHS = ['./plugins']
 
 THEME = "./themes/pelican-bootstrap3"
 
+PLUGINS = ['render_math']
+
 DIRECT_TEMPLATES = ['index']
 
 DEFAULT_PAGINATION = 10
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
